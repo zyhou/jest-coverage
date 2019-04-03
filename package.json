@@ -1,0 +1,23 @@
+{
+  "name": "jest-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyhou/jest-coverage.git"
+  },
+  "author": "Maxime Richard (https://zyhou.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyhou/jest-coverage/issues"
+  },
+  "homepage": "https://github.com/zyhou/jest-coverage#readme",
+  "devDependencies": {
+    "jest": "24.7.0"
+  }
+}
